@@ -1,10 +1,10 @@
 /* app shell CSS */
 :root {
-  --primary: #31a9e1;
+  --primary: #e131ac;
   --gray: #ececec;
   --whitesmoke: #f5f5f5;
-  --dark: #222;
-  --duotone-light: #272822;
+  --dark: #492d45;
+  --duotone-light: #5e1a52;
   --navbar-height: 50px;
 }
 
@@ -185,7 +185,7 @@ h1 {
 }
 
 .btn.btn-link {
-  background-color: #1b89bc;
+  background-color: #af1bbc;
   color: #ffffff;
 }
 
