@@ -1,11 +1,11 @@
 {
-  "name": "pwa-kitties",
+  "name": "progressive-web-applications",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watchAll"
   },
-  "author": "Mary Elenius",
+  "author": "Mary E & Ashley Nord",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.15.0",
