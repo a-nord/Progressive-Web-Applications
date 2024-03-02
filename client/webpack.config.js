@@ -19,7 +19,7 @@ module.exports = () => {
       // Webpack plugin that generates the html file and injects the bundles.
       new HtmlWebpackPlugin({
         template: "./index.html",
-        title: "K.I.T.T.I.E.S",
+        title: "F.L.O.W.E.R.S",
         favicon: "./favicon.ico",
       }),
       // Injects the custom service worker
@@ -31,9 +31,9 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: "Kitten Impregnable Thoughts Text In-Line Editing Software",
-        short_name: "K.I.T.T.I.E.S.",
-        description: "Thoughts that even cats can't tear up!",
+        name: "Flowery Text Editor",
+        short_name: "F.L.O.W.E.R.S.",
+        description: "A Rose For My Lady!",
         favicon: "./favicon.ico",
         // Theme and background color pulled from duotone-light.min.css
         background_color: "#faf8f5",
