@@ -1,7 +1,7 @@
 {
-  "name": "pwa-kitties",
+  "name": "flowers",
   "version": "1.0.0",
-  "description": "Text editor application converted to PWA",
+  "description": "Flowery Text Editor Using PWA",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd client && npm run dev\" \"cd server && npm run server\" ",
@@ -12,16 +12,16 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "Mary Elenius",
+  "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/404pandas/pwa-kitties.git"
+    "url": "git+https://github.com/a-nord/progressive-web-applications.git"
   },
   "bugs": {
-    "url": "https://github.com/404pandas/pwa-kitties/issues"
+    "url": "https://github.com/a-nord/progressive-web-applications/issues"
   },
-  "homepage": "https://github.com/404pandas/pwa-kitties#readme",
+  "homepage": "https://github.com/a-nord/progressive-web-applications#readme",
   "dependencies": {
     "express": "^4.17.1"
   },

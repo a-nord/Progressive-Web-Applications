@@ -1,5 +1,5 @@
 {
-  "name": "pwa-kitties",
+  "name": "flowers",
   "version": "1.0.0",
   "description": "Text editor application converted to PWA",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "server": "nodemon server.js --ignore client"
   },
   "keywords": [],
-  "author": "Mary Elenius",
+  "author": "Mary E and Ashley Nord",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
