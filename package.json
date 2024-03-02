@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/a-nord/progressive-web-applications#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node": "^21.6.2"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
