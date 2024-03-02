@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/404pandas/pwa-kitties">
-    <img src="./client/src/images/logoNew.png" alt="Logo" width="2000" height="250">
+    <img src="./client/src/images/logoNew.png" alt="Logo" width="1000" height="250">
   </a>
 
 <h3 align="center">K.I.T.T.I.E.S.</h3>
