@@ -100,7 +100,10 @@ If you would like to run the app locally, follow the below installation instruct
 
 <!-- USAGE EXAMPLES -->
 
+
 ## Usage
+
+<img src="./client/src/images/screenshot.PNG" alt="screenshot">
 
 To run in the app locally, simply run `npm i` to install all the dependencies.
 
