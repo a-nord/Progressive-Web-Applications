@@ -4,33 +4,33 @@
   <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/404pandas/pwa-kitties.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pwa-kitties/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/404pandas/pwa-kitties.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pwa-kitties/network/members)
-[![Stargazers](https://img.shields.io/github/stars/404pandas/pwa-kitties.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pwa-kitties/stargazers)
-[![Issues](https://img.shields.io/github/issues/404pandas/pwa-kitties.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pwa-kitties/issues)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/LinkedInUsername)
+[![Contributors](https://img.shields.io/github/contributors/a-nord/progressive-web-applications.svg?style=plastic&logo=appveyor)](https://github.com/a-nord/progressive-web-applications/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/a-nord/progressive-web-applications.svg?style=plastic&logo=appveyor)](https://github.com/a-nord/progressive-web-applications/network/members)
+[![Stargazers](https://img.shields.io/github/stars/a-nord/progressive-web-applications.svg?style=plastic&logo=appveyor)](https://github.com/a-nord/progressive-web-applications/stargazers)
+[![Issues](https://img.shields.io/github/issues/a-nord/progressive-web-applications.svg?style=plastic&logo=appveyor)](https://github.com/a-nord/progressive-web-applications/issues)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/ashleynord)
 
 </div>
 
 <!-- PROJECT LOGO -->
 
 <div align="center">
-  <a href="https://github.com/404pandas/pwa-kitties">
+  <a href="https://github.com/a-nord/progressive-web-applications">
     <img src="./client/src/images/logoNew.png" alt="Logo" width="1000" height="250">
   </a>
 
-<h3 align="center">K.I.T.T.I.E.S.</h3>
+<h3 align="center">F.L.O.W.E.R.S.</h3>
 
   <p align="center">
-    Kitten Impregnable Thoughts Text In-Line Editing Software <br />
-    <a href="https://github.com/404pandas/pwa-kitties"><strong>Explore the docs »</strong></a>
+    Flowery Text In-Line Editing Software <br />
+    <a href="https://github.com/a-nord/progressive-web-applications"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pwa-kitties.onrender.com/">View App</a>
+    <a href="https://flowery-text-editor.onrender.com/">View App</a>
     ·
-    <a href="https://github.com/404pandas/pwa-kitties/issues">Report Bug</a>
+    <a href="https://github.com/a-nord/progressive-web-applications/issues">Report Bug</a>
     ·
-    <a href="https://github.com/404pandas/pwa-kitties/issues">Request Feature</a>
+    <a href="https://github.com/a-nord/progressive-web-applications/issues">Request Feature</a>
   </p>
 </div>
 
@@ -52,7 +52,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -66,7 +65,7 @@
 <!-- Add screenshots using the following format: -->
 <!-- ![Screenshot alt description](directPathOfScreenshots) -->
 
-This project was built using Webpack, Babel, and CodeMirror to create a progressive web app text editor themed around cats
+This project was built using Webpack, Babel, and CodeMirror to create a progressive web app text editor themed around flowers
 
 ### Built With
 
@@ -90,22 +89,18 @@ This project was built using Webpack, Babel, and CodeMirror to create a progress
 ## Getting Started
 
 This app is fully functional and live at:
-https://pwa-kitties.onrender.com/
+https://flowery-text-editor.onrender.com/
 
 If you would like to run the app locally, follow the below installation instructions
 
 ### Installation
 
 1. Clone the repo
-   git clone https://github.com/404pandas/pwa-kitties.git
+   git clone https://github.com/a-nord/progressive-web-applications.git
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-
-Please enjoy this video of the application being used
-
-(in development)
 
 To run in the app locally, simply run `npm i` to install all the dependencies.
 
@@ -133,22 +128,8 @@ Follow the prompts to complete the installation to operate this app offline!
 
 - [ ] Add front end
 
-See the [open issues](https://github.com/404pandas/pwa-kitties/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/a-nord/progressive-web-applications/issues) for a full list of proposed features (and known issues).
 
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
 
 <!-- LICENSE -->
 
@@ -162,13 +143,13 @@ See LICENSE.txt for more information.
 
 ## Contact
 
-Mary Elenius - mary.panda.jackson@gmail.com
+Ashley Nord - anord99@yahoo.com
 
-Repo Link: [https://github.com/404pandas/pwa-kitties](https://github.com/404pandas/pwa-kitties)
-Live Link: [https://pwa-kitties.onrender.com/](https://pwa-kitties.onrender.com/)
+Repo Link: [https://github.com/a-nord/progressive-web-applications](https://github.com/a-nord/progressive-web-applications)
+Live Link: [https://flowery-text-editor.onrender.com/](https://flowery-text-editor.onrender.com/)
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
-I would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty!
+I would like to give a big shoutout to our TA Mary E. She is the best and so helpful!
